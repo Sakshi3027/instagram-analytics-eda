@@ -2,8 +2,11 @@
 
 > Comprehensive EDA analyzing 176 Instagram posts with 3.4M+ impressions to optimize content strategy
 
+**🌐 [VIEW LIVE DASHBOARD](https://instagram-analytics-eda.streamlit.app/)** 
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Status](https://img.shields.io/badge/status-complete-success.svg)
+![Status](https://img.shields.io/badge/status-live-success.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-deployed-red.svg)
 
 ##  Project Overview
 
