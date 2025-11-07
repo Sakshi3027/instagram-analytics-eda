@@ -93,8 +93,8 @@ instagram-analytics-eda/
 ## 👤 Author
 
 **Sakshi**
-MS in Data science student 
-At University of massachusetts Dartmouth
+| MS in Data science student 
+| At University of massachusetts Dartmouth
 - GitHub: [Sakshi3027](https://github.com/Sakshi3027)
 
 ## 📄 License
