@@ -81,7 +81,7 @@ instagram-analytics-eda/
 
 ##  Dashboard Preview
 
-![Dashboard](visualizations/instagram_dashboard.png)
+![Instagram Analytics Dashboard](./visualizations/instagram_dashboard.png)
 
 ##  Key Insights
 
@@ -94,7 +94,7 @@ instagram-analytics-eda/
 
 **Sakshi**
 MS in Data science student 
-University of massachusetts Dartmouth
+At University of massachusetts Dartmouth
 - GitHub: [Sakshi3027](https://github.com/Sakshi3027)
 
 ## 📄 License
